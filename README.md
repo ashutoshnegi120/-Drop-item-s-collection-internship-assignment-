@@ -21,13 +21,13 @@ The game is designed for **Android** and is optimized for mobile play with on-sc
 Here are some screenshots of the game in action:
 
 ![Game Screenshot 1](./Images/1.PNG)  
-*Gameplay view showing the player collecting items.*
+*Game start screen.*
 
 ![Game Screenshot 2](./Images/2.PNG)  
 *UI showing the settings menu where players can adjust sound levels.*
 
 ![Game Screenshot 3](./Images/3.PNG)  
-*Game over screen after missing three items.*
+*Game Play screen*
 
 ## Requirements
 
